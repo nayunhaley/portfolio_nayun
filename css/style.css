@@ -689,8 +689,6 @@ a.active {
     width: 300px;
 }
 
-
-
 #contact ul li:hover img {
     transform: rotate(5deg)
 }
